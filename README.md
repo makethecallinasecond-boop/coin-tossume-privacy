@@ -1,1 +1,1 @@
-# coin-tossume-privacy
+# Flip-It-privacy
